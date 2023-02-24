@@ -1,0 +1,46 @@
+/* About Uscss*/
+.section2{
+    height: 70vh;
+    padding: 10% 0 ;
+    
+}
+.heading{
+  text-align: center;
+  margin-top: 50px;
+}
+.h1{
+  font-size: 2.5em;
+  letter-spacing: 2px;
+font-weight: bold;
+}
+hr{
+
+  width: 10%;
+  margin: auto;
+  border: 1px solid #1a73e8;
+  margin-top:30px
+}
+.p{
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin: auto;
+  max-width: 680px;
+}
+.colu{
+display: flex;
+justify-content: center;
+margin:50px 30px;
+}
+.icon{
+  width: 300px;
+  font-size: 20px;
+  padding: 20px;
+  align-items: center;
+}
+h4{
+font-weight: 100;
+font-size: 1.5rem;
+}
+.cont{
+padding-top: 10px;
+}
